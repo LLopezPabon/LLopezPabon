@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lina or Linita
 - 👀 I’m interested in ... software development. 
-- 🌱 I’m currently learning ... codes.
+- 🌱 I’m currently learning ... coding
 - 💞️ I’m looking to collaborate on ... new proyects.
 - 📫 How to reach me ... linalopez27@outlook.com
 - 😄 Pronouns: ... Linita.
